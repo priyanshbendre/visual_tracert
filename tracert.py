@@ -41,7 +41,7 @@ if __name__ == '__main__':
 	ip_list = parse_ip_add()
 
 
-	access_token = "24c18628d500ec"
+	access_token = "API_ACCESS_TOKEN_HERE"
 	handler = ipinfo.getHandler(access_token)
 	latitude = []
 	longitude =[]

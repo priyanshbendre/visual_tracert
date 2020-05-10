@@ -1,5 +1,0 @@
-# sources:
-ipinfo.io for ip to geo location (personal gmail account/50,000 api calls per month)
-https://github.com/ipinfo/python
-
-gmplot: https://pypi.org/project/gmplot/

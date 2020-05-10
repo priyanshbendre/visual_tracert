@@ -2,15 +2,16 @@
 
 Visualize the route traced by the packet when we use traceroute
 
-### Installing
+### Installation
 
-Install ipinfo library to convert ip address to cities. Create account and get access token for free 50,000 requests per month.
+Install [ipinfo](https://ipinfo.io) library to convert ip address to cities. Create account and get access token for free 50,000 requests per month.
+
 
 ```
 pip install ipinfo
 ```
 
-And install gmplot library to plot the co-ordinates on the map
+And install [gmplot](https://pypi.org/project/gmplot/) library to plot the co-ordinates on the map
 
 ```
 pip install gmplot
